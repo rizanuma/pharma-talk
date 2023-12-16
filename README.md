@@ -1,4 +1,3 @@
-PROJECT OVERVIEW
 Project Name: PHARMA TALK
 Project Purpose: To address the growing demand for accessible healthcare information and improve the way users access and understand drug-related information.
 Project Objective: Utilize Natural Language Processing (NLP) and semantic search to provide a user-friendly and intelligent interface for accessing accurate, timely, and relevant drug information.
